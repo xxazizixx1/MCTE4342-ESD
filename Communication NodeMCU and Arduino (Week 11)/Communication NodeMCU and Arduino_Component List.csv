@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+U1,1,ESP12E NodeMCU
+U2,1,Arduino Uno Rev 3
+R1,1,1 kΩ Resistor
+D1,1,Red LED
